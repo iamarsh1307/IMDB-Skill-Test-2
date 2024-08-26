@@ -22,4 +22,4 @@ Contact For any questions or inquiries, please contact
 
 ✅ Github : https://github.com/iamarsh1307/iamarsh1307.git
 
-Clone the repository: bash Copy code git clone : 
+Clone the repository: bash Copy code git clone : https://github.com/iamarsh1307/IMDB-Skill-Test-2
